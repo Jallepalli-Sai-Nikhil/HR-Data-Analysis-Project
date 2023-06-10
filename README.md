@@ -1,6 +1,8 @@
 # HR-Data-Analysis-Project
 This GitHub repository contains a comprehensive collection of resources and code for conducting data analysis in the field of Human Resources (HR). The project aims to provide valuable insights into HR-related data by leveraging advanced analytics techniques and tools.
-[powerBi_pdf.pdf](https://github.com/Sai-Nikhil29/HR-Data-Analysis-Project/files/11712415/powerBi_pdf.pdf)
+
+![Screenshot_visual](https://github.com/Sai-Nikhil29/HR-Data-Analysis-Project/assets/115182270/7557154b-61e1-4c4b-abcc-7e7cd4e15584)
+
 
 **Data Used**
 *Data* - HR Data with over 22000 rows from the year 2000 to 2020
